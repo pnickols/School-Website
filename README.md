@@ -1,2 +1,2 @@
 # School-Website
-Prangan's area for development
+Prangan's area for development.
