@@ -1,2 +1,2 @@
 # School-Website
-Cedric's Area for development
+Cedric's area for development
