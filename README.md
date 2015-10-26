@@ -1,2 +1,2 @@
 # School-Website
-Malcolm's area for development
+Malcolm's area for development.
